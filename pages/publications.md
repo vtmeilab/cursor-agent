@@ -9,8 +9,15 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=MntNsM8AAAAJ&hl=en) for more details<br>
 \# Co-First authors * Co-corresponding;
 
+### 2026
+
+* Huang L, Hou H, Zhang X, Dong L, Shi W, Liu M, Sun J, Prakash A, Song H, Pei S, Li X, Chen X, **Mei S**, Yin M. Integrative single-cell analysis uncovers distinct tumour microenvironment ecotypes and immune evasion across skin cancers. Clinical and Translational Medicine. 2026;16(2):e70611. [doi:10.1002/ctm2.70611](https://doi.org/10.1002/ctm2.70611)
+
 ### 2025
 
+* Jeffries NE, Floyd DJ, **Mei S**, Sykes DB, Mansour MK. Tracking NF-kB activity across steady-state neutrophil maturation. Cell Death Discovery. 2025;11:437. [doi:10.1038/s41420-025-02737-w](https://doi.org/10.1038/s41420-025-02737-w)
+* Hsu C-I, **Mei S**, Demmerle J, Prakash A, Ruttenberg S, Sahn M, Yu J-R. Paraspeckle protein NONO regulates active chromatin by allosterically stimulating NSD1. Cell Reports. 2025;44(9):116247. [doi:10.1016/j.celrep.2025.116247](https://doi.org/10.1016/j.celrep.2025.116247)
+* Bai Y, Zhang C, Liu H, Deng F, Wu Z, Deng W, Zheng Z, Min R, **Mei S**, Kang H, Yu H, Pan Y, Lieberman J, Zhao J, Liu X. ER-resident CCDC134 safeguards TLR4 maturation by maintaining gp96 stability. Proc Natl Acad Sci U S A. 2025;122(34):e2512154122. [doi:10.1073/pnas.2512154122](https://doi.org/10.1073/pnas.2512154122)
 * Zhao T, He L, Wong LP, **Mei S**, Xia J, Xu Y, Van Vranken JG, Mazzola M, Chen L, Rhee C, Fang T, Fukushima T, Sayles LC, Diaz M, Gibbons JAB, Mostoslavsky R, Gygi SP, Dou Z, Sykes DB, Sadreyev RI, Sweet-Cordero EA, Scadden DT. Derepressing nuclear pyruvate dehydrogenase induces therapeutic cancer cell reprogramming. Cell Metabolism. 2025. [http://dx.doi.org/10.1016/j.cmet.2025.05.009]
 
 * **Mei S**, Zhang H, Hirz T, Jeffries NE, Xu Y, Baryawno N, et al. Single-cell and spatial transcriptomics reveal a tumor-associated macrophage subpopulation that mediates prostate cancer progression and metastasis. Mol Cancer Res 2025. [https://doi.org/10.1158/1541-7786.MCR-24-0791](https://doi.org/10.1158/1541-7786.MCR-24-0791).
